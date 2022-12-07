@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Datos.ConexionBD">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Datos.RepositorioClientes">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Datos.RepositorioParqueadero">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Datos.repositoriotarifas">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Datos.RepositorioVehiculos">
+    <Position X="9" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Entidades.Cliente">
+    <Position X="10.75" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Entidades.Parqueadero">
+    <Position X="7.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Entidades.Tarifas">
+    <Position X="13" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Entidades.Vehiculo">
+    <Position X="5.25" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="Datos.ICRUDParqueadero&lt;Parqueadero&gt;">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Datos.ICRUDTarifa&lt;T&gt;">
+    <Position X="13.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Datos.ICRUDVehiculo&lt;V&gt;">
+    <Position X="15" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="DatosDAO.ICRUD&lt;T&gt;">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
